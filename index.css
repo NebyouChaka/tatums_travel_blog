@@ -20,6 +20,10 @@ h1{
     height: 300px;
     order: 2;
     text-align: center;
+    text-decoration: underline;
+    border-radius: .75em;
+    box-shadow: 1px;
+    text-shadow: rgb(1, 6, 1)
 }
 h3{
     color: white;
@@ -40,6 +44,8 @@ a:hover{
 img{
     margin: auto;
     display: block;
+    border: lightgreen;
+    height: 20%;
 }
 #main-title{
     padding-top: 6rem;
